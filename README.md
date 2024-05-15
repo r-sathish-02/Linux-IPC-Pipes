@@ -23,7 +23,7 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 ```
-Developed By:Sathish R
+Developed By: Sathish R
 Reg No:212222230138
 ```
 
